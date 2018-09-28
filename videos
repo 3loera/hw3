@@ -1,0 +1,13 @@
+What's the point of an object?
+
+-a list of properties that belong together ( variables for a circle go into var circle )
+
+
+What's an example of a range you might use for the map function?
+
+-0-600x
+
+
+What line of code would give me a random year in the last century?
+
+-var x = random (1918,2018)
